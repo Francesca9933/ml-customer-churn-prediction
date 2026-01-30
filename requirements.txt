@@ -1,7 +1,7 @@
-Pandas 2.2.3
-Matplotlib 3.10.8
-Numpy 1.19.5
-Scipy 1.6.0
-Kaggle 1.8.3 
-Stasmodels 0.14.6 
-Statsforecast 2.0.3 
+Pandas==2.2.3;
+Matplotlib==3.10.8;
+Numpy==1.19.5;
+Scipy==1.6.0;
+Kaggle==1.8.3;
+Stasmodels==0.14.6;
+Statsforecast==2.0.3;
