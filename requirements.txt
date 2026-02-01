@@ -2,9 +2,9 @@ pandas==2.2.3;
 matplotlib==3.10.8;
 scipy==1.14.1;
 numpy==2.2.6
-Kaggle==1.8.3;
+Kaggle==1.7.4.2;
 XGBoost==1.6.1
 seaborn==0.13.2
-sklearn==1.6.1
+sklearn==1.5.2
 tensorflow==2.20.0
 flaml==2.5.0
