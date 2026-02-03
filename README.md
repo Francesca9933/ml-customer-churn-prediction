@@ -11,6 +11,7 @@ This Machine Learning project is dedicated to building a forecasting model of a 
 - Use the statistical and ML insights to propose marketing strategies to increase retention rate
 
 ## 📁 Repository Structure
+```text
 ml-customer-churn-prediction/
 ├── customer_churn_prediction.ipynb            # Python notebook of scripts
 ├── assets/                                    # Forecast plots and evaluation charts
@@ -23,8 +24,10 @@ ml-customer-churn-prediction/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
 
 ## 🗎 Project Structure
+```text
 customer_churn_prediction.ipynb/
 ├── Import libraries
 ├── Data Import
@@ -54,6 +57,7 @@ customer_churn_prediction.ipynb/
     ├── ANN Experimentation
     ├── K-Means
       └── SHAP
+```
 
 ## Results 
 It is useful to divide the dataset into 4 groups of customers with similar characteristics (unsupervised classification using K-Means). Based on their common traits, we could assign a label to each group that grasps the main behavior: 
